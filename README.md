@@ -1,2 +1,3 @@
 # bookbot
-A bot calculating the amount of characters in books
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
